@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+
+body {
+	font-family: 'Carter One', cursive;
+	font-size: 14px;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.logo {
+	width: 100%;
+}
+
+.video_block {
+	width: 80%;
+	display: table;
+	margin: auto;
+	overflow: hidden;
+	padding-top: 56.25%;
+	position: relative;
+}
+
+.video_block iframe {
+	border: 0;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+.text_block {
+	width: 80%;
+	display: table;
+	margin: auto;
+}
+
+.title {
+	font-size: 1.5rem;
+	text-align: center;
+	margin-top: 0;
+}
+
+.description {
+	text-align: center;
+}
+
+.description li {
+	list-style-type: decimal;
+}
+
+.download_button {
+	max-width: 30%;
+	display: table;
+	margin: 20px auto 0;
+}
+
+.contacts_block {
+	position: relative;
+}
+
+.watermark {
+	width: 20%;
+	position: absolute;
+	left: 0;
+}
+
+.copy_block {
+	color: #ffffff;
+}
+
+.contacts {
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.site_link {
+	color: #ffffff;
+}
+
+.fb_link {
+	height: 1rem;
+}
+
+.insta_link {
+	height: 1rem;
+}
+
+.phone {
+	margin-top: 0;
+	text-align: center;
+}
+
+.phone a {
+	color: #ffffff;
+}
+
+.phone_icon {
+	height: 1rem;
+	margin-left: 5px;
+}
+
+.copyright {
+	text-align: center;
+	margin-top: 0;
+}
